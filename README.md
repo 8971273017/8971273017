@@ -10,3 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 $ cd    c:/users/user/my project
 $ git init
+$ git status
+$ git add contributing.md
